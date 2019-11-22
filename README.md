@@ -11,9 +11,7 @@
 <br/>
 <br/>
 
-`github地址`：[基于原生小程序精仿的猫眼电影](https://github.com/zhangZhiHao1996/weapp-movie-master)  
-`扫描体验`：  
-<img src='https://img-blog.csdnimg.cn/20181105093504581.jpg'></img>
+`github地址`：[基于原生小程序精仿的猫眼电影](https://github.com/husoongbo/Movie)  
 <br/>
 
 ### 项目截图
@@ -121,14 +119,6 @@
 2. 关闭安全域名的校验（设置 --> 项目设置 --> 不校验合法域名）
 <br/>
 
-
-### 其他个人项目
-
-- [基于vue+vue-router+jsonp+vuex仿制的移动端`QQ音乐`](https://github.com/zhangZhiHao1996/vue-music-master)
-- [基于React-Antd的`后台模板Demo`](https://github.com/zhangZhiHao1996/react-admin-master)
-- [基于原生小程序精仿的`猫眼电影小程序`](https://github.com/zhangZhiHao1996/weapp-movie-master)
-
-<br/>
 
 <hr/>
 
