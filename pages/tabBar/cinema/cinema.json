@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "影院",
+  "usingComponents": {
+    "filter-nav": "/components/filter-nav/filter-nav"
+  }
+}
